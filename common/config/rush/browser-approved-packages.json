@@ -1,0 +1,258 @@
+// DO NOT ADD COMMENTS IN THIS FILE.  They will be lost when the Rush tool resaves it.
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/rush/v5/approved-packages.schema.json",
+  "packages": [
+    {
+      "name": "@google-cloud/storage",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@nest-modules/mailer",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@nestjs/common",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@nestjs/core",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@nestjs/jwt",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@nestjs/microservices",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@nestjs/passport",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@nestjs/platform-express",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@nestjs/swagger",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@nestjs/testing",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@nestjs/typeorm",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@nestjs/websockets",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@nestjsx/crud",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@nestjsx/crud-request",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@nestjsx/crud-typeorm",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@nestjsx/util",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@souls/dtos",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@typescript-eslint/eslint-plugin",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "@typescript-eslint/parser",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "async-file",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "bcryptjs",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "class-transformer",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "class-validator",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "class-validator-jsonschema",
+      "allowedCategories": [ "tools" ]
+    },
+    {
+      "name": "dotenv-extended",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "eslint",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "eslint-config-prettier",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "eslint-plugin-prettier",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "express",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "factory-girl",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "glob",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "jest",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "mime-types",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "multer",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "nodemon",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "ora",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "passport",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "passport-jwt",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "patch-package",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "pgsql",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "prettier",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "reflect-metadata",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "rimraf",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "rollup",
+      "allowedCategories": [ "tools" ]
+    },
+    {
+      "name": "rollup-plugin-commonjs",
+      "allowedCategories": [ "tools" ]
+    },
+    {
+      "name": "rollup-plugin-node-resolve",
+      "allowedCategories": [ "tools" ]
+    },
+    {
+      "name": "rollup-plugin-typescript",
+      "allowedCategories": [ "tools" ]
+    },
+    {
+      "name": "rollup-plugin-typescript2",
+      "allowedCategories": [ "tools" ]
+    },
+    {
+      "name": "rxjs",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "supertest",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "swagger-ui-express",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "tiny-warning",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "ts-jest",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "ts-node",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "tsc-watch",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "tsconfig-paths",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "tslib",
+      "allowedCategories": [ "tools" ]
+    },
+    {
+      "name": "tslint",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "tslint-config-prettier",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "tslint-plugin-prettier",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "typeorm",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "typeorm-transactional-cls-hooked",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "typescript",
+      "allowedCategories": [ "production", "tools" ]
+    }
+  ]
+}
