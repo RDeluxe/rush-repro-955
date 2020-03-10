@@ -1,0 +1,21 @@
+{
+  "name": "@rush-repro/dtos",
+  "version": "0.0.0",
+  "description": "DTOs",
+  "main": "dist/bundle.js",
+  "types": "dist/index.d.ts",
+  "typings": "./dist",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "1.18.2",
+    "typescript": "3.5.3"
+  },
+  "dependencies": {
+    "mikro-orm": "^3.4.1",
+    "pg": "^7.18.2"
+  }
+}

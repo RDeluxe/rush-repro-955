@@ -131,6 +131,10 @@
       "allowedCategories": [ "production" ]
     },
     {
+      "name": "mikro-orm",
+      "allowedCategories": [ "tools" ]
+    },
+    {
       "name": "mime-types",
       "allowedCategories": [ "production" ]
     },
@@ -161,6 +165,10 @@
     {
       "name": "patch-package",
       "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "pg",
+      "allowedCategories": [ "tools" ]
     },
     {
       "name": "pgsql",
