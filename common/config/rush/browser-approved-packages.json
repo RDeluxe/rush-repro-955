@@ -135,6 +135,10 @@
       "allowedCategories": [ "production" ]
     },
     {
+      "name": "moment",
+      "allowedCategories": [ "tools" ]
+    },
+    {
       "name": "multer",
       "allowedCategories": [ "production" ]
     },

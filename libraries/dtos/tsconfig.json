@@ -7,7 +7,9 @@
     "preserveConstEnums": true,
     "noImplicitAny": true,
     "target": "es5",
-    "lib": ["esnext"],
+    "lib": [
+      "esnext"
+    ],
     "outDir": "./dist",
     "skipLibCheck": true,
     "esModuleInterop": true,
@@ -18,6 +20,7 @@
     "resolveJsonModule": true,
     "noEmit": true
   },
-  "include": ["src"],
-  "exclude": ["node_modules"]
+  "exclude": [
+    "node_modules"
+  ]
 }

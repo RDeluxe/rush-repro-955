@@ -2,12 +2,10 @@ dependencies:
   '@rush-temp/dtos': 'file:projects/dtos.tgz'
   '@typescript-eslint/eslint-plugin': 1.13.0_836f4c4cfacca4f03ea6d932bc989900
   '@typescript-eslint/parser': 1.13.0_eslint@6.3.0
-  class-transformer: 0.2.3
-  class-validator: 0.10.0
-  class-validator-jsonschema: 1.3.0_020f3d9a069c02fb8a3ec402c77c8e0c
   eslint: 6.3.0
   eslint-config-prettier: 6.2.0_eslint@6.3.0
   eslint-plugin-prettier: 3.1.0_eslint@6.3.0+prettier@1.18.2
+  moment: 2.24.0
   prettier: 1.18.2
   rollup: 1.20.3
   rollup-plugin-commonjs: 10.1.0_rollup@1.20.3
@@ -744,6 +742,10 @@ packages:
     hasBin: true
     resolution:
       integrity: sha1-MAV0OOrGz3+MR2fzhkjWaX11yQM=
+  /moment/2.24.0:
+    dev: false
+    resolution:
+      integrity: sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
   /ms/2.1.2:
     dev: false
     resolution:
@@ -1197,6 +1199,7 @@ packages:
       eslint: 6.3.0
       eslint-config-prettier: 6.2.0_eslint@6.3.0
       eslint-plugin-prettier: 3.1.0_eslint@6.3.0+prettier@1.18.2
+      moment: 2.24.0
       prettier: 1.18.2
       rollup: 1.20.3
       rollup-plugin-commonjs: 10.1.0_rollup@1.20.3
@@ -1208,19 +1211,18 @@ packages:
     dev: false
     name: '@rush-temp/dtos'
     resolution:
-      integrity: sha512-MgJrMJirs1RxhBEGMfE98/vBUh+byZU8KrWFc7w47QURM6uyVixB1Qeo8vdRRmVLCJ1Y1kj2y28BWPCqHPSoxg==
+      integrity: sha512-iRSBycTOZYMJcNczLqhRXGMW0ZBcPAz7xKvLSuzO+uaEOu7rAvmXKqznrs2pjsplXEmZeS3poMkAuCYZVDKdCA==
       tarball: 'file:projects/dtos.tgz'
     version: 0.0.0
+registry: ''
 specifiers:
   '@rush-temp/dtos': 'file:./projects/dtos.tgz'
   '@typescript-eslint/eslint-plugin': 1.13.0
   '@typescript-eslint/parser': 1.13.0
-  class-transformer: ~0.2.3
-  class-validator: ~0.10.0
-  class-validator-jsonschema: ~1.3.0
   eslint: ~6.3.0
   eslint-config-prettier: ~6.2.0
   eslint-plugin-prettier: ~3.1.0
+  moment: 2.24.0
   prettier: 1.18.2
   rollup: ~1.20.3
   rollup-plugin-commonjs: ~10.1.0
